@@ -1,4 +1,4 @@
-void(
+void( //Void used to prevent odd Chrome behavior with javascript bookmarklets
 	(function(){
 		var gitFile = "ExampleUser/ExampleRepo/master/Example.js"; //Change to the repo you wish to load
 		
